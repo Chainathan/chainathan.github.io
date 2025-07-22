@@ -17,11 +17,13 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my personal website!
 
-I am a **Machine Learning Engineer** at the [Quantitative Neuroscience Lab](https://sites.google.com/view/maijia-liao-homepage/) and a Computer Science graduate student at Northeastern University. My focus is on designing advanced AI solutions in Deep Learning, **Computer Vision**, and **NLP**, with a vision for creating versatile, multi-modal systems that adapt across text, image, and audio inputs.
+I’m a Computer Science graduate student at Northeastern University specializing in **Computer Vision, 3D reconstruction, and multi-modal AI**. My current focus is on building advanced pipelines for view synthesis using techniques like Structure-from-Motion (SfM), COLMAP, and NeRFs to generate high-fidelity 3D models from monocular videos.
 
-My technical expertise includes **Multimodal models**, **Diffusion models**, and **LLMs**, with frameworks like PyTorch, OpenCV, and Hugging Face. I have hands-on experience fine-tuning state-of-the-art models like Llama, Stable Diffusion, and YOLO, and extensive skills in tools such as MATLAB and ImageJ. From model development to deployment, I build custom frameworks to optimize adaptability and performance.
+Previously, I worked at the [Quantitative Neuroscience Lab](https://sites.google.com/view/maijia-liao-homepage/), where I developed deep learning tools for neuron tracking and segmentation in noisy microscopy data. There, I built end-to-end systems using models like SAM2, UNet++, and KymoButler, and deployed them with SageMaker and MLflow.
 
-Guided by [Prof. Raymond](https://scholar.google.com/citations?user=h-JEcQ8AAAAJ&hl=en) and [Prof. Maijia Liao](https://sites.google.com/view/maijia-liao-homepage/team?authuser=0), I develop neural networks to track protein dynamics in **microscopy videos** of dendrites, achieving precise neuron segmentation. Additionally, under [Prof. Venkat Rajagopal](https://rajagopalvenkat.com/)'s mentorship, I am working on a privacy-preserving mobile app that detects and obscures sensitive content on-device using Vision Transformers, empowering users with greater control over their data. These projects reflect my commitment to impactful, cross-disciplinary AI applications.
+Outside of 3D vision, I explore generative models—particularly **Diffusion**-based approaches—for tasks like image generation, sketch extraction, and design synthesis. I’ve fine-tuned state-of-the-art models including Stable Diffusion, LLaMA, YOLOv11, and built scalable tools across PyTorch, Hugging Face, ROS, and AWS.
+
+From research to real-world applications, I enjoy designing intelligent systems that bring together geometry, learning, and creativity.
 
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

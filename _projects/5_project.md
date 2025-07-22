@@ -3,7 +3,7 @@ layout: page
 title: Image Generation with Stable Diffusion
 description: Implementation of Stable Diffusion with Noise Samplers from scratch
 img: assets/img/bedroom_denoise.gif
-importance: 4
+importance: 5
 redirect: https://github.com/Chainathan/unguided-image-generation
 ---
 

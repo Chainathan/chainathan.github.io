@@ -3,7 +3,7 @@ layout: page
 title: Research Paper Summarization
 description: Finetuned Gemma-7B, LLaMA-7B, and Mistral-7B for hybrid long-context summarization
 img: assets/img/transformer.png
-importance: 3
+importance: 9
 redirect: https://github.com/Chainathan/research-paper-summarization
 ---
 

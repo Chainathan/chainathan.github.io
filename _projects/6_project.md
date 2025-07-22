@@ -3,7 +3,7 @@ layout: page
 title: Art Style Transfer
 description: VGG16 - Feature extraction and Style transfer
 img: assets/img/style.jpg
-importance: 5
+importance: 11
 redirect: https://github.com/Chainathan/style-transfer
 ---
 

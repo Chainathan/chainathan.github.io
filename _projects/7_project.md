@@ -3,7 +3,7 @@ layout: page
 title: Tiny Torch Utils
 description: Custom PyTorch Model Training framework with gradient stats and callback options
 img: assets/img/pytorch.png
-importance: 6
+importance: 12
 redirect: https://github.com/Chainathan/tiny-torch-util
 ---
 
