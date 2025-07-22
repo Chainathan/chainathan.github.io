@@ -17,11 +17,11 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my personal website!
 
-I’m a Computer Science graduate student at Northeastern University specializing in **Computer Vision, 3D reconstruction, and multi-modal AI**. My current focus is on building advanced pipelines for view synthesis using techniques like Structure-from-Motion (SfM), COLMAP, and NeRFs to generate high-fidelity 3D models from monocular videos.
+I’m a Computer Science graduate student at Northeastern University specializing in **Computer Vision, 3D reconstruction, Diffusion and multi-modal AI**. My current focus is on building advanced pipelines for view synthesis using techniques like Structure-from-Motion (SfM), COLMAP, and NeRFs to generate high-fidelity 3D models from monocular videos.
 
 Previously, I worked at the [Quantitative Neuroscience Lab](https://sites.google.com/view/maijia-liao-homepage/), where I developed deep learning tools for neuron tracking and segmentation in noisy microscopy data. There, I built end-to-end systems using models like SAM2, UNet++, and KymoButler, and deployed them with SageMaker and MLflow.
 
-Outside of 3D vision, I explore generative models—particularly **Diffusion**-based approaches—for tasks like image generation, sketch extraction, and design synthesis. I’ve fine-tuned state-of-the-art models including Stable Diffusion, LLaMA, YOLOv11, and built scalable tools across PyTorch, Hugging Face, ROS, and AWS.
+Outside of 3D vision, I also focus on generative models—particularly **Diffusion**-based approaches—for tasks like **image generation, sketch extraction, and design synthesis**. I’ve fine-tuned state-of-the-art models including Stable Diffusion, LLaMA, YOLOv11, and built scalable tools across PyTorch, Hugging Face, ROS, and AWS.
 
 From research to real-world applications, I enjoy designing intelligent systems that bring together geometry, learning, and creativity.
 
